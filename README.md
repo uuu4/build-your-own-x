@@ -184,6 +184,7 @@ It's a great way to learn.
 
 #### Build your own `Game`
 
+* [**C**:  Snake Game in C ](https://www.geeksforgeeks.org/snake-game-in-c/)
 * [**C**: _Handmade Hero_](https://handmadehero.org/)
 * [**C**: _How to Program an NES game in C_](https://nesdoug.com/)
 * [**C**: _Chess Engine In C_](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
